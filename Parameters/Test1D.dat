@@ -1,0 +1,13 @@
+/home/nicolas/Documents/Current_Work/TFE/DG_Solver/Geometry/Tests/test1D.msh
+1
+Advection
+AdvectionUpwind
+5
+0.5 0. 0. 1. 100
+0.0001
+2
+Gauss2
+v_View.msh
+Runge Kutta 4
+-1
+2.
